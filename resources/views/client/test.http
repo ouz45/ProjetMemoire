@@ -1,0 +1,8 @@
+GET http://project_rechercheSimplonR.test/api/clients HTTP/1.1
+
+###
+
+
+
+POST  http://project_rechercheSimplonR.test/api/clients HTTP/1.1
+Content-Type: application/json
